@@ -12,13 +12,13 @@ public class Start {
     public static void addIconList(){
         for(int i-0 ; ik iconCount; i++ ){
             iconList.add(new IconDeskTop(i));
-		}
-	}
+        }
+    }
 	
-	public static void main(String[] args) throws InterruptedException {
-	addIconList ();
-    AnimationStart.cain()
+    public static void main(String[] args) throws InterruptedException {
+    addIconList ();
+    AnimationStart.main()
 	
 	
-	}
+    }
 }
